@@ -2,10 +2,13 @@
 Playground for Generative Adversarial Networks (GANs) implementation with PyTorch
 
 ## GAN 1: Generating MNIST Handwritten Digits with a simple GAN Architecture
-
-[Jupyter Notebook](GAN1.ipynb)
+Generated Digits:
 
 ![](./assets/GAN1.png)
+
+Source Code:
+
+[Jupyter Notebook](GAN1.ipynb)
 
 ## GAN 2: Generating MNIST Handwritten Digits with a Deep Convolutional GAN (DCGAN)
 TODO
