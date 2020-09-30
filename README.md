@@ -1,9 +1,9 @@
 # GANs
 Playground for Generative Adversarial Networks (GANs) implementation with PyTorch
 
-## GAN 1: Generate MNIST Handwritten Digits with a simple GAN Architecture
+## GAN 1: Generating MNIST Handwritten Digits with a simple GAN Architecture
 
-## GAN 2: Generate MNIST Handwritten Digits with a Deep Convolutional GAN (DCGAN)
+## GAN 2: Generating MNIST Handwritten Digits with a Deep Convolutional GAN (DCGAN)
 
 
 ### References
