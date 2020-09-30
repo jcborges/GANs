@@ -8,6 +8,5 @@ Playground for GANs implementation with PyTorch
 1. Goodfellow, Ian, et al. "Generative adversarial nets." 
 *Advances in neural information processing systems. 2014.*
 
-2.
-*Generative Adversarial Networks (GANs) Specialization*
+2. *Generative Adversarial Networks (GANs) Specialization*
 Coursera, https://www.coursera.org/specializations/generative-adversarial-networks-gans
