@@ -15,5 +15,4 @@ TODO
 1. Goodfellow, Ian, et al. "Generative adversarial nets." 
 *Advances in neural information processing systems. 2014.*
 
-2. *Generative Adversarial Networks (GANs) Specialization*
-Coursera, https://www.coursera.org/specializations/generative-adversarial-networks-gans
+2. *[Coursera Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)*
