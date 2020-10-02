@@ -15,12 +15,23 @@ Source Code: [Jupyter Notebook](DCGAN.ipynb)
 
 ![](./assets/GAN2.png)
 
+## GAN 3: Generating MNIST Handwritten Digits with a Wasserstein GAN with Gradient Penalty (WGAN-GP)
+Source Code: [Jupyter Notebook](WGAN-GP.ipynb)
+
+![](./assets/GAN3.png)
+
 ### References
 1. Goodfellow, Ian, et al. "Generative adversarial nets." 
 *Advances in neural information processing systems. 2014.*
 
 2. Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep convolutional generative adversarial networks." 
 *arXiv preprint arXiv:1511.06434 (2015)*.
+
+3. Arjovsky, Martin, Soumith Chintala, and Léon Bottou. "Wasserstein gan." 
+*arXiv preprint arXiv:1701.07875 (2017)*.
+
+4. Gulrajani, Ishaan, et al. "Improved training of wasserstein gans." 
+*Advances in neural information processing systems.* 2017.
 
 3. *[Coursera Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)*
 
