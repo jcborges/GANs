@@ -20,6 +20,11 @@ Source Code: [Jupyter Notebook](WGAN-GP.ipynb)
 
 ![](./assets/GAN3.png)
 
+## GAN 4: Conditional GAN for MNIST
+Source Code: [Jupyter Notebook](CGAN.ipynb)
+
+![](./assets/GAN4.png)
+
 ### References
 1. Goodfellow, Ian, et al. "Generative adversarial nets." 
 *Advances in neural information processing systems. 2014.*
@@ -32,6 +37,9 @@ Source Code: [Jupyter Notebook](WGAN-GP.ipynb)
 
 4. Gulrajani, Ishaan, et al. "Improved training of wasserstein gans." 
 *Advances in neural information processing systems.* 2017.
+
+5. Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets." 
+*arXiv preprint arXiv:1411.1784 (2014).*
 
 3. *[Coursera Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)*
 
